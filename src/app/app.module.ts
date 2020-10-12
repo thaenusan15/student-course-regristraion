@@ -22,4 +22,4 @@ import { RegisterComponent } from './register/register.component';
   providers: [],
   bootstrap: [AppComponent]
 })
-export class AppModule {DashboardComponent; RegisterlistComponent; InformationComponent }
+export class AppModule {DashboardComponent; RegisterlistComponent; InformationComponent; LoginComponent; }
